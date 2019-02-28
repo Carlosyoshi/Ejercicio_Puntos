@@ -5,7 +5,7 @@ import java.awt.*;
 import javax.swing.JPanel;
 /**
  *
- * @author j_h4e
+ * @author Yoshi
  */
 
 //Panel que muestra los puntos y las aristas que los unen */

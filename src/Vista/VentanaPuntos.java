@@ -12,7 +12,7 @@ import java.awt.event.*;
 import javax.swing.*;
 /**
  *
- * @author j_h4e
+ * @author Yoshi
  */
 public class VentanaPuntos extends JFrame {
     

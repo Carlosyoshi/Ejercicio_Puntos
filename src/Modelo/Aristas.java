@@ -7,7 +7,7 @@ package Modelo;
 
 /**
  *
- * @author j_h4e
+ * @author Yoshi
  */
 
 import java.util.ArrayList;

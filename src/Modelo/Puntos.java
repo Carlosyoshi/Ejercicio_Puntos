@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author j_h4e
+ * @author Yoshi
  */
 public class Puntos {
     

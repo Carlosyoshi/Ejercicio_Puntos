@@ -7,7 +7,7 @@ package Modelo;
 
 /**
  *
- * @author j_h4e
+ * @author Yoshi
  */
 public class Punto {
     
